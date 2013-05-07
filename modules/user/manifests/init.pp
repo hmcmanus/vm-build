@@ -3,6 +3,6 @@ class user {
         home          =>    '/home/hmcmanus',
         ensure        =>    present,
         managehome    =>    true,
-        password      =>    'passw0rd',
+        password      =>    '',
     }
 }
